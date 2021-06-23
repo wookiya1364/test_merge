@@ -1,3 +1,3 @@
-# test_merge
+# test_merge입니다.
 wooki
 think
